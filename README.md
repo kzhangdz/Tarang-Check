@@ -10,8 +10,19 @@ View events on a map interface, with the following features:
 - A table view to view all events on the map.
 - A filter to select a date range and desired artists.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/b17b30c2-3401-4d5d-97a4-3daf1956230b"/>
+</div>
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/1ba550b3-832c-4f7b-94f5-42f41c187368"/>
+</div>
+
 ## Artists
 Select from a wide variety of artists and view all their current events. 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/6a980c5e-88c9-4d72-8a23-e5aa9fe64958"/>
+</div>
 
 Artist pages feature custom-tailored colors to bring out each group's unique personality.
 
